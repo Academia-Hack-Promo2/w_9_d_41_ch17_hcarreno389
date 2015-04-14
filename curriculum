@@ -35,9 +35,12 @@
 			<article>	
 			<h2>Estudios</h2>
 				<h3>Estudios formales:</h3>	
-				
-					<h4>Unefa - Chuao</h4>
 
+					<h4>U.E.P Ibero Americano</h4>
+					<h4>2011</h4>
+					<h4>Bachiller en ciencias</h4>
+					<h4>____________________________________________________________________________________</h4>
+					<h4>Unefa - Chuao</h4>
 					<h4>2011-2015</h4>
 					<h4>5º Semestre Ing. Sistemas</h4>
 					<h4>____________________________________________________________________________________</h4>
@@ -54,7 +57,7 @@
 		<section id="experiencia">
 		<h2>Experencias</h2>
 				<div class="conte-izq">
-					<h3>vocem <span>01/01/2010 - 31/12/2010</span></h3>
+					<h4>vocem <span>05/04/2014 - 14/12/2014</span></h4>
 				</div>
 		</section>
 		<section id="referencias">
@@ -63,54 +66,24 @@
 				<h3>Personales</h3>
 				<table>
 					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
+						<th>Reina Teles -</th>
+						<th>Telefono: (0424)5610840 -</th>
+						<th>Correo: Reinacsp5@hotmail.com</th>
 					</tr>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
+
+						<th>Lucila Castellanos -</th>
+						<th>Telefono: (0426)8367792</th>
+						<th>Correo: lacilu12j@hotmail.com</th>
 					</tr>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr>
+					
 				</table>
 				<table>
 					<h3>Comerciales</h3>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr>
+					
 				</table>
 				<table>
 					<h3>Laborales</h3>
-					<tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr><tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr><tr>
-						<th>Nombre</th>
-						<th>Telefono</th>
-						<th>Correo</th>
-					</tr>
+					
 				</table>
 			</article>
 		</section>
@@ -130,7 +103,9 @@
 			</div>
 		</section>
 		<section>
-			
+			<p>Republica Blivariana de Venezuela</p>
+			<p>Hack Enterprise S.A</p>
+			<p>Todos los derechos reservados</p>
 		</section>
 	</body>
 </html>

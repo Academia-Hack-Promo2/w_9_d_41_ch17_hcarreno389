@@ -23,7 +23,7 @@ body{
 	top: -80;
 	margin: 10;
 	padding: 0;
-	background-color: #358DB3;
+	background-image: url('ps42.jpg');
 }
 h1{
 	position: relative;
@@ -69,4 +69,12 @@ th{
 }
 mensaje{
 	width: 300;
+}
+p{
+	position: relative;
+	left:550;
+}
+.conten-input input,textArea{
+	width: 80%;
+
 }
