@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>My curriculum</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-wisth, initial-scale=1.0"> <!-- tamaño de la pantalla -->
+		<meta	name="keywords" content="Curriculum">
+		<meta name="descripcion" content="Curriculum de Hector Carreño"> <!--Descripcion de la pag -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<img src="hector.jpg"/>
+		<h1>Hector Yoandre Jose Carreño Castellano</h1>
+	</head>
+
+	<body>
+		<header>
+			<nav>
+				<ul class="menu">
+					<li>
+						<a href="#estudios">Estudios Realizados</a>
+					</li>
+					<li>
+						<a href="#experiencia">Experiencia lavoral</a>
+					</li>
+					<li>
+						<a href="#referencias">Referencias</a> <!--link de enlaces  -->
+					</li>
+					<li>
+						<a href="#contacto">Contactar</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+<div class="conten_datos">
+		<section id="estudios">
+			<article>	
+			<h2>Estudios</h2>
+				<h3>Estudios formales:</h3>	
+				
+					<h4>Unefa - Chuao</h4>
+
+					<h4>2011-2015</h4>
+					<h4>5º Semestre Ing. Sistemas</h4>
+					<h4>____________________________________________________________________________________</h4>
+				
+					<h4>Hack</h4>
+					<h4>2015</h4>
+					<h4>Estudiante de la academia hack</h4>
+					
+				</div>
+
+			</article>
+		</section>
+
+		<section id="experiencia">
+		<h2>Experencias</h2>
+				<div class="conte-izq">
+					<h3>vocem <span>01/01/2010 - 31/12/2010</span></h3>
+				</div>
+		</section>
+		<section id="referencias">
+		<h2>Referencias</h2>
+			<article>
+				<h3>Personales</h3>
+				<table>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+				</table>
+				<table>
+					<h3>Comerciales</h3>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+				</table>
+				<table>
+					<h3>Laborales</h3>
+					<tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr><tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr><tr>
+						<th>Nombre</th>
+						<th>Telefono</th>
+						<th>Correo</th>
+					</tr>
+				</table>
+			</article>
+		</section>
+		
+		<section id="contacto">
+			<div style="conten-input">
+				<input type="text" name="Nombre" placeholder="Ingrese su Nombre">
+			</div>
+			<div style="conten-input">
+			<input type="text" correo="Correo" placeholder="Ingrese su correo">
+			</div>
+			<div style="conten-input">
+			<input class="mensaje" type="text" correo="Mensaje" placeholder="Ingrese su Mensaje">
+			</div>
+			<div style="conten-input">
+			<input type="submit" name="submit" value="Enviar mensaje">
+			</div>
+		</section>
+		<section>
+			
+		</section>
+	</body>
+</html>
